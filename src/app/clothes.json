@@ -1,0 +1,39 @@
+[
+  {
+    "id": 103210,
+    "title": "Regular Fit Sweatshorts",
+    "price": 199900,
+    "totalPrice": 199900,
+    "stock": 5,
+    "qty": 1,
+    "size": ["M", "L"],
+    "type": "Sweatshorts",
+    "color": "black",
+    "image": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/9d7ec1aa9f20a5d86a3187519b055aeb8af252e0_xxl-1.jpg"
+  },
+  {
+    "id": 103211,
+    "title": "Regular Fit Round-neck T-shirt",
+    "price": 129900,
+    "totalPrice": 129900,
+
+    "stock": 10,
+    "qty": 1,
+    "size": ["S", "M"],
+    "type": "t-shirt",
+    "color": "black",
+    "image": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/173c969034c3f54a650c63e81d0b95b7b8b239c4_xxl-1.jpg"
+  },
+  {
+    "id": 103212,
+    "title": "Regular Fit Cotton polo shirt",
+    "price": 249900,
+    "totalPrice": 249900,
+    "stock": 3,
+    "qty": 1,
+    "size": ["XS", "S"],
+    "type": "polo",
+    "color": "mint",
+    "image": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/a8c1eea8dbbedb915a4ddfccd162f4de100a69f5_xxl-1.jpg"
+  }
+]
