@@ -15,7 +15,6 @@ export default function App() {
     const findData = data.find((d) => d.id === id);
 
     let qty = findData.qty;
-    let totalPrice = findData.price;
     const price = findData.price;
     const stock = findData.stock;
 
@@ -28,7 +27,7 @@ export default function App() {
         qty = qty - 1;
       }
     }
-    totalPrice = price * qty;
+    const totalPrice = price * qty;
 
     const body = {
       ...findData,
